@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Prayogi Dwi Cahyo Putro (Yogi)
 
 ### Next Project :
-- e-Commerce YG Store using Flutter with Firebase and connect Midtrans
+- e-Commerce YG Store
 
 ### Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
