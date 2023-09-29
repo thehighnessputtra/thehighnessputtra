@@ -8,7 +8,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Github Statistic
-![Puttra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehighnessputtra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehighnessputtra&layout=compact&theme=radical)
 
 ### Connect with me
