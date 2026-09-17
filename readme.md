@@ -8,7 +8,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Github Statistic
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehighnessputtra&layout=compact&theme=radical)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=thehighnessputtra&stars=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=thehighnessputtra&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ### Connect with me
 <a href = "mailto:prayogidwicahyoputra@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
